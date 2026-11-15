@@ -1,5 +1,6 @@
 # Stout-Take-Home-Case-Study
-Stout Take Home Case Study Project
+
+Used Python (Pandas) and SQL in a Google Colab Jupyter Notebook to process the customer revenue data and calculate the 10 metrics required for the case study.
 
 ## Data Cleaning and Quality Checks
 
